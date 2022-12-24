@@ -1,1 +1,2 @@
-# rudransh-project-95
+# spectagram-stage-1
+project solution for c81
